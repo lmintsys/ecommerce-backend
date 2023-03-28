@@ -13,9 +13,9 @@ To create this app, Sequelizer, MySQL2 and the dotenv package were installed.
 ## Usage
 
 This app may be used to retrieve information from the database such as the information on all products, tags, and categories, or to retriev information on one entry by its ID. In addition, a user can create new entries, update and delete existent ones.  
-![get](assets/menu.png)  
-![post](assets/employees.png)  
-[Walkthrough video]()
+![get](assets/get.png)  
+![post](assets/post.png)  
+[Walkthrough video](https://watch.screencastify.com/v/1fBuiSDCmkuxh4gSAjMu)
 
 ## Credits
 
